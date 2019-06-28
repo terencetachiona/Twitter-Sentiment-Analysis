@@ -1,9 +1,9 @@
 # Twitter credentials.py
 
 # cconsumer (your) keys
-CONSUMER_KEY    = 'Y9C7M3j0u8C4lEH2OTNbWT6Y5'
-CONSUMER_SECRET = '80fMzm9a1fa9vIitymLOF4keBpZvNrKFd8DtuveWq9fohnMQsl'
+CONSUMER_KEY    = '-----'
+CONSUMER_SECRET = '-----'
 
 # Access tokens
-ACCESS_TOKEN  = '732160585836703744-722RkSmFnCh6inE0AFX23MCNvozGVY6'
-ACCESS_SECRET = 'FFYYmQNSjH7OMPhZrWJ79dMjY1mITEZgeJhRpVT0UNo3k'
+ACCESS_TOKEN  = '-----'
+ACCESS_SECRET = '-----'
